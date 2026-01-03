@@ -1,7 +1,7 @@
   # 📦 Product Management Dashboard – Frontend Assignment
 
 ## 🚀 Live Demo
-👉 https://gritsa-assignment.netlify.app/products
+👉 https://gritsa-assignment.netlify.app/
 
 ---
 
